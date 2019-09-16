@@ -1,2 +1,5 @@
 <h1>Seja bem vindo</h1>
-<h6>Repositório OLD</h6>
+<h2>Repositório OLD</h2>
+<pre>
+  Somente arquivos antigos
+</pre>
